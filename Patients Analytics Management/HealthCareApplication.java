@@ -1,0 +1,12 @@
+package com.example.healthcare;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+// Main Spring Boot Application
+@SpringBootApplication
+public class HealthCareApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(HealthCareApplication.class, args);
+    }
+}
