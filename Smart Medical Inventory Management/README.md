@@ -13,7 +13,10 @@ The backend application for managing medical inventory in a smart system.
 - Maven
 
 ## Run
-mvn spring-boot:run
+mvn spring-boot: run
+
 GET /inventory – all items
+
 POST /inventory – add item (JSON body)
+
 DELETE /inventory/{id} – delete item
