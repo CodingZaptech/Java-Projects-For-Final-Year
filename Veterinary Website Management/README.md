@@ -1,6 +1,6 @@
 # Veterinary Website Management (Backend)
 
-Minimal backend for managing pets in a veterinary system.
+The backend application for managing pets in a veterinary system.
 
 ## Features
 - Add new pet
